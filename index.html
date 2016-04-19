@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+  <ul class="post-list">
+    {% for post in site.data.pages %}
+      <li>
+
+        <h2>
+          <a class="post-link" href="{{ post.url  }}">{{ post.title }}</a>
+        </h2>
+                <span class="post-meta">{{ post.url }}</span>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
