@@ -1,22 +1,32 @@
+# - title: Nick Niles
+  # url: http://nickniles.github.io
 - title: Nick Niles
-  url: http://nickniles.github.io
+  url: https://nickniles.com
+- title: Collecture Landing Page
+  url: https://www.collecture.io
+- title: Collecture Description
+  url: https://lab27.github.io/nick-chalk/projects/collecture
 - title: VR Talk Page
-  url: http://lab27.github.io/vr-mother/
+  url: https://lab27.github.io/vr-mother/
 - title: VR Stage Controller
   url: https://lab27.github.io/stages/
 - title: VR Venues (Original)
   url: http://lab27.github.io/venues/
 - title: VR Streaming Dashboard
-  url: http://lab27.github.io/vr-dashboard/
+  url: https://lab27.github.io/vr-dashboard/
 - title: VR Icons
-  url: http://lab27.github.io/vr-icons/
-- title: Burma Shave, UI Prototyping
-  url: http://github.com/lab27/burmashave.git
-- title: Stargazing With Ponies
-  url: http://stargazingwithponies.com
+  url: https://lab27.github.io/vr-icons/
+- title: Atfront Redesign
+  url: https://lab27.github.io/atfront-redesign
+- title: Atfront Description
+  url: https://lab27.github.io/nick-chalk/projects/atfront
+# - title: Burma Shave, UI Prototyping
+#   url: https://github.com/lab27/burmashave.git
+# - title: Stargazing With Ponies
+#   url: https://stargazingwithponies.com
 - title: Old VR Prototype
-  url: http://lab27.github.io/vr-foundass/
+  url: https://lab27.github.io/vr-foundass/
 - title: VR Tile Morph Demo
-  url: http://lab27.github.io/tilemorph/
-- title: Persona
-  url: https://nickniles.persona.co
+  url: https://lab27.github.io/tilemorph/
+# - title: Persona
+  # url: https://nickniles.persona.co
